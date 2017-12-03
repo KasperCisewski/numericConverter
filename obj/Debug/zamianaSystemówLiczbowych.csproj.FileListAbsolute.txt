@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\zamianaSystemówLiczbowych\bin\Debug\zamianaSystemówLiczbowych.exe.config
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\zamianaSystemówLiczbowych\bin\Debug\zamianaSystemówLiczbowych.exe
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\zamianaSystemówLiczbowych\bin\Debug\zamianaSystemówLiczbowych.pdb
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\zamianaSystemówLiczbowych\obj\Debug\zamianaSystemówLiczbowych.csprojResolveAssemblyReference.cache
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\zamianaSystemówLiczbowych\obj\Debug\zamianaSystemówLiczbowych.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\zamianaSystemówLiczbowych\obj\Debug\zamianaSystemówLiczbowych.exe
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\zamianaSystemówLiczbowych\obj\Debug\zamianaSystemówLiczbowych.pdb

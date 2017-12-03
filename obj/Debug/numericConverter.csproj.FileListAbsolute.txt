@@ -1,0 +1,7 @@
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\numericConverter\bin\Debug\zamianaSystemówLiczbowych.exe.config
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\numericConverter\bin\Debug\zamianaSystemówLiczbowych.exe
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\numericConverter\bin\Debug\zamianaSystemówLiczbowych.pdb
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\numericConverter\obj\Debug\numericConverter.csprojResolveAssemblyReference.cache
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\numericConverter\obj\Debug\numericConverter.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\numericConverter\obj\Debug\zamianaSystemówLiczbowych.exe
+C:\Users\Pc\source\repos\wstepDoProgramowaniaKoloGrubaB\numericConverter\obj\Debug\zamianaSystemówLiczbowych.pdb
